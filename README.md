@@ -10,6 +10,6 @@ Then do the following command
 npm install
 ```
 
-For Development: `npm start`
+For development mode: `npm start`
 
-For Production build: `npm run build`
+For production build: `npm run build`
