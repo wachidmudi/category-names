@@ -1,0 +1,45 @@
+GENRES
+Action 
+Adventure 
+Animation 
+Asia Barat 
+Biography 
+Comedy 
+Crime 
+Documentary 
+Drama 
+Ecchi 
+Family 
+Fantasy 
+Fiction 
+Game 
+Harem 
+Historical 
+History 
+Horror 
+Kids 
+Magic 
+Martial Arts 
+Mecha 
+Millitary 
+Music 
+Musical 
+Mystery 
+Psychological 
+Romance 
+Samurai 
+School Life 
+Sci-Fi Science 
+Seinen 
+Shounen 
+Slice of Life 
+Space 
+Sport 
+Super Power 
+Superheroes 
+Supernatural 
+Survival  
+Thriller 
+TV Series 
+War 
+Zombie
