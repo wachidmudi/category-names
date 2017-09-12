@@ -1,11 +1,13 @@
 html, body{
+  background-color: #EEF3F4;
+  font-family: Roboto, "Helvetica Neue", Helvetica, sans-serif;
   margin: 0;
   padding: 0;
 }
 
 ul{
-  margin: 5px auto;
-  padding: 0 5px;
+  margin: 1rem auto;
+  padding: 0 .5rem;
 }
 
 li{
@@ -15,22 +17,73 @@ li{
   margin: 3px;  
 }
 
+header{
+  margin: 1rem;
+  text-align: center;
+}
+
+form input[type="text"] {
+  background: url('search.png') no-repeat #FFFFFF;
+  background-position: left .8rem bottom .4rem; 
+  background-size: 2rem;
+  border: 1px solid #DFE4E8;
+  color: #d7d7d7;
+  width: 16rem;
+  padding: 1rem 1.5rem 1rem 3.5rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  border-radius: 2rem;
+  -webkit-transition: all 0.7s ease 0s;
+  -moz-transition: all 0.7s ease 0s;
+  -o-transition: all 0.7s ease 0s;
+  transition: all 0.7s ease 0s;
+  }
+
+form input[type="text"]:focus {
+  width: 20rem;
+}
+
+main{
+  background-color: #fff;
+  border: 2px solid #E8EEF1;
+  border-radius: 1rem;
+  margin: 1rem 3rem;
+  padding: 1rem;  
+}
+
+.fav{
+  margin: 0 auto;
+}
+
+.fav>p{
+  color: #344349;
+  font-size: 20px;
+  margin: .6rem;
+}
+
+.fav>ul{
+  margin: 1rem auto;
+}
+
 .btn{
-  border-radius: .3rem;
+  border-radius: .4rem;
   padding: 5px 7px;
 }
 
 .btn-default{
-  color: #4e4e4e;
-  background-color: #eee;
+  color: #818A97;
+  background-color: #F9FAFF;
+  border: 1px solid #DFE4E8;
 }
 
 .btn-primary{
-  color: #f4f4f4;
-  background-color: #428bca;
+  color: #FCFDFD;
+  background-color: #2ACDCF;
+  border: 1px solid #3ED2D3;
 }
 
 .about{
   color: #787878;
   text-align: center;
+  margin-top: 2rem;
 }
